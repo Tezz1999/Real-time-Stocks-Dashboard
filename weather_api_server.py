@@ -52,7 +52,7 @@ def main():
         except Exception as e:
             print(f"An error occurred: {e}")
 
-        # Sleep for 60 seconds
+        # Sleep for 30 seconds
         time.sleep(30)
 
 if __name__ == "__main__":
